@@ -2,6 +2,7 @@ library electric_icon;
 import 'package:flutter/widgets.dart';
 
 class ElectricIcons{
+  static IconData breakers = IconData(0xE901, fontFamily: 'Electrical', fontPackage: 'electric_icons');
 
   static IconData v1 = IconData(0xE9AD, fontFamily: 'Electrical', fontPackage: 'electric_icons');
 
