@@ -1,0 +1,18 @@
+name: electric_icons
+description: Electrical icons
+version: 0.0.1
+author: Brett Pappas <brett.pappas@gmail.com>
+homepage: https://github.com/brettpappas/electric_icons
+
+environment:
+  sdk: '>=1.19.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: Electrical
+      fonts:
+        - asset: packages/electric_icon/fonts/Electrical.ttf
