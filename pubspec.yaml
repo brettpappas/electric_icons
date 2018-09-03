@@ -15,4 +15,4 @@ flutter:
   fonts:
     - family: Electrical
       fonts:
-        - asset: packages/electric_icon/fonts/Electrical.ttf
+        - asset: packages/electric_icons/fonts/Electrical.ttf
