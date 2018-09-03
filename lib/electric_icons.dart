@@ -12,5 +12,4 @@ class ElectricIcons{
   static IconData h2 = IconData(0xE949, fontFamily: 'Electrical', fontPackage: 'electric_icons');
 
   static IconData icon = IconData(0xE900, fontFamily: 'Electrical', fontPackage: 'electric_icons');
-
 }
