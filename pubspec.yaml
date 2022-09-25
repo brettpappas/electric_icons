@@ -1,11 +1,10 @@
 name: electric_icons
 description: Electrical icons
-version: 0.0.1
-author: Brett Pappas <brett.pappas@gmail.com>
+version: 2.0.0
 homepage: https://github.com/brettpappas/electric_icons
 
 environment:
-  sdk: '>=1.19.0 <3.0.0'
+  sdk: '>=2.16.1 <3.0.0'
 
 dependencies:
   flutter:
